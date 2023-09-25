@@ -17,4 +17,4 @@ Dependencies: If the code relies on specific libraries or dependencies, these ar
 
 Usage:
 Users can clone or download the repository, open the Arduino sketches for both the transmitter and receiver, and upload them to their respective Arduino boards equipped with NRF24L01 modules. By following the provided instructions, users can establish wireless communication between the two modules and customize the code for their specific applications.
-![image](https://github.com/Khushi4502/NRF24L01-Transmitter-Receiver/assets/77982658/8357cecf-9c92-49f7-bba6-c06bd8db5e4a)
+                               ![image](https://github.com/Khushi4502/NRF24L01-Transmitter-Receiver/assets/77982658/8357cecf-9c92-49f7-bba6-c06bd8db5e4a)
